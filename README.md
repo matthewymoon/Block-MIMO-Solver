@@ -28,4 +28,4 @@ report SER/BER and latency.
 1. **Clone the repo**
    ```bash
    git clone https://github.com/matthewymoon/Block-MIMO-Solver.git
-   cd mimo-qpsk-flow
+   cd Block-MIMO-Solver
