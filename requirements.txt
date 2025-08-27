@@ -1,0 +1,7 @@
+jax[cpu]
+diffrax
+numpy
+scipy
+matplotlib
+notebook
+jupyterlab
