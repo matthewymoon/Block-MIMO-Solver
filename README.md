@@ -1,6 +1,5 @@
 # Block-MIMO-Solver
 Project started at Redwood Center for Theoretical Neuroscience
-# Gradient-Flow MIMO QPSK Detector
 
 This repo contains two Jupyter notebooks that implement a gradient-flow-based detector
 for QPSK over complex MIMO channels. The detector minimizes a loss combining
@@ -28,5 +27,5 @@ report SER/BER and latency.
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/matthewymoon/mimo-qpsk-flow.git
+   git clone https://github.com/matthewymoon/Block-MIMO-Solver.git
    cd mimo-qpsk-flow
